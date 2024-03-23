@@ -9,7 +9,7 @@ import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
 import PropTypes from "prop-types";
 import breakpoints from "../../theme/breakpoints";
-import "@fontsource/open-sans";
+// import "@fontsource/open-sans";
 
 const SliderItem = ({ id, index, isHidden, video, image, title, description, actions, onlyItem, calculateMinWidth, onClose, moveToASpecificItem }) => {
 

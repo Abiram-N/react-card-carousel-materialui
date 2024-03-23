@@ -1,0 +1,48 @@
+{
+    "extends": [
+        "plugin:react/recommended",
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "react-hooks",
+        "import",
+        "prettier"
+    ],
+    "rules": {
+        "react/require-default-props": "off",
+        "no-param-reassign": "off",
+        "jsx-a11y/alt-text": "off",
+        "react/react-in-jsx-scope": "off",
+        "react/display-name": "off",
+        "react/no-unknown-property": "off",
+        "react/no-deprecated": "off",
+        "react/jsx-filename-extension": "off"
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        },
+        "import/resolver": {
+            "node": {
+                "moduleDirectory": [
+                    "node_modules",
+                    "src/ReactCardCarousel"
+                ]
+            }
+        }
+    },
+    "globals": {
+        "JSX": true
+    },
+    "ignorePatterns": [
+        "src/ReactCardCarousel/**/*"
+    ]
+}
