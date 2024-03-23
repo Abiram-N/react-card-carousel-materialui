@@ -9,7 +9,7 @@ This package supports both desktop and mobile devices. It behaves differently in
 
 ![productionimage](https://github.com/Abiram-N/react-card-carousel-materialui/assets/42763936/241e09fd-723d-4354-8c8e-0d26788936ae)
 
-###### Component in action
+##### Component in action
 
 ![productionvideo](https://github.com/Abiram-N/react-card-carousel-materialui/assets/42763936/f74a06d8-b8ab-4bff-963e-37d9b26b7e3d)
 
@@ -227,4 +227,4 @@ Below are the features that are planned to be added in the near future.
 
 MIT
 
-**Free Software, Hell Yeah!**
+This is a free software: you can redistribute it and/or modify it under the terms of the MIT license. This software is provided without any warranty.
