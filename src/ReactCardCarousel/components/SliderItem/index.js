@@ -1,3 +1,4 @@
+import React from 'react';
 import Close from "@mui/icons-material/Close";
 import Box from "@mui/material/Box";
 import Card from "@mui/material/Card";
