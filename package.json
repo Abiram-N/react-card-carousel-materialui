@@ -27,6 +27,18 @@
             "pre-commit": "tsdx lint"
         }
     },
+    "keywords": [
+        "react",
+        "carousel",
+        "material-ui",
+        "react-component",
+        "tesla",
+        "card-carousel",
+        "react-card-carousel",
+        "react-carousel-dialog",
+        "react-carousel-fullscreen",
+        "react-card-carousel-materialui"
+    ],
     "prettier": {
         "printWidth": 80,
         "semi": false,
